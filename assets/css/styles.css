@@ -327,6 +327,7 @@ background:#000;
 border-radius:0px;
 padding:12px 20px;
 color:#fff;
+align-items:end;
 }
 .reservation-btn:hover{
 color:#000;
@@ -463,9 +464,10 @@ ul.social-buttons li a {
 outline: 0;
 color: #FFFFFF;
 margin-right: 12px;
+font-family: Moul;
 }
 ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
-	color: #ffbf00;
+	color: blue;
 } 
 
 .white h1 {
@@ -629,4 +631,13 @@ margin-top:30px;
 .large{
 	font-family: Freehand;
 	font-size: 2em;
+}
+.img-responsive{
+	width: 40em;
+}
+.font-moul{
+	font-family: Moul;
+}
+.font-freehand{
+	font-family: Freehand;
 }
